@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OTP READER</string>
+    <string name="notification_channel_id">otp_channel</string>
+</resources>
